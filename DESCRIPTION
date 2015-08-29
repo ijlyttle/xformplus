@@ -1,0 +1,9 @@
+Package: parseplus
+Title: Helper functions for parsing dataframes
+Version: 0.0.0.9000
+Authors@R: person("Ian", "Lyttle", email = "ian.lyttle@schneider-electric.com", role = c("aut", "cre"))
+Description: Fiddly bits that I seem to use a lot when working with dataframes
+Depends: R (>= 3.2.2)
+License: MIT + file LICENSE
+LazyData: true
+Suggests: testthat
