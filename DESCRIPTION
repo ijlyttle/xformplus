@@ -19,6 +19,7 @@ License: MIT + file LICENSE
 LazyData: true
 Imports:
   lubridate,
-  dplyr
+  dplyr,
+  readr (>= 0.1.1.9),
 Suggests:
   testthat
