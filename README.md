@@ -1,4 +1,4 @@
-# parseplus
+# xformplus
 
 This is a collection of utilities that I have found useful while wrestling with dataframes.
 
@@ -10,5 +10,5 @@ To get the current development version from github:
 
 ```R
 # install.packages("devtools")
-devtools::install_github("ijlyttle/parseplus")
+devtools::install_github("ijlyttle/xformplus")
 ```
